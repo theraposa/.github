@@ -48,7 +48,7 @@ return false ~~ Returns false
 
 #### Modules
 ```ther
-get module name
+get module_name
 ```
 
 ## Contributing
