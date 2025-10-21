@@ -1,4 +1,4 @@
-# theraposa
+# Theraposa
 
 A fast, lightweight and beautiful scripting language.
 | name | pronounciation | type |
